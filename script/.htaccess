@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^files/(.*) vendor/fineuploader/php-traditional-server/files/$1
